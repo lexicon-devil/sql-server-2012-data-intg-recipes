@@ -66,7 +66,7 @@ CREATE TABLE #MetaData_Tables(
 ) 
 
 
-INSERT INT	#MetaData_Tables
+INSERT INTO	#MetaData_Tables
 (
 SCHEMA_NAME
 ,TABLE_NAME
